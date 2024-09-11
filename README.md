@@ -1,1 +1,1 @@
-# https://joaovincosta.github.io/GooglePageFlexbox.git
+# https://joaovincosta.github.io/GooglePageFlexbox
